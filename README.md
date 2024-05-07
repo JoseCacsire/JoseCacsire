@@ -23,7 +23,7 @@ considero fascinante por su versatilidad y potencial. Mi pasión por Java me imp
 
 - 📫 Cómo contactarme: **jose1cacsire2torres3@gmail.com**
 
-- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en **My Linkendin** ->  <a href="www.linkedin.com/in/josecacsiretorres" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jose Luis Cacsire Torres" /></a>
+- 🔍 Si quieres conocer más acerca de mi experiencia y habilidades, puedes visitar mi perfil de LinkedIn en **My Linkendin** ->  <a href="https://www.linkedin.com/in/josecacsiretorres" target="_blank" ><img align="center" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jose Luis Cacsire Torres" /></a>
 
 <div align="left">
     <h3> Languages and Tools 🧰</h3>
