@@ -7,7 +7,7 @@
 <p align="center" ><img  style="width: 200px;" src="https://media3.giphy.com/media/67pT4cqBcomeCbnDuB/source.gif"/></p>
  <h1 align="center" style=" align-items: center; border-radius: 50%; width: 100%">  About Me </h1> 
 
- ¡Saludos! Soy un entusiasta desarrollador Java con sede en Lima, Perú. Actualmente, me encuentro inmerso en el estudio y la práctica de Spring, una tecnología que 
+ ¡Saludos! Desarrollador Java con sede en Lima, Perú. Actualmente, me encuentro inmerso en el estudio y la práctica de Spring, una tecnología que 
 considero fascinante por su versatilidad y potencial. Mi pasión por Java me impulsa a explorar constantemente nuevas tecnologías y enfrentar desafíos diversos.
 ¡Estoy emocionado por las oportunidades que el futuro tiene reservadas!
 
