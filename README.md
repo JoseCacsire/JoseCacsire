@@ -1,19 +1,18 @@
 <h1 align="center">👋 ¡Hola! Soy Jose Cacsire</h1>
 
-<p align="center"><strong>Desarrollador Backend apasionado por la tecnología, especializado en Java +8, Spring Boot e Spring WebFlux, desde Lima, Perú.</strong></p>
-
 <p align="center">
-  Con 2 años de experiencia en el desarrollo de microservicios, APIs RESTful y soluciones escalables. 
-  Disfruto enfrentar retos técnicos aplicando buenas prácticas como principios SOLID y programación reactiva (RxJava, Spring WebFlux).
+  <strong>Desarrollador Backend con 2 años de experiencia en la creación de microservicios, APIs RESTful y soluciones escalables.</strong><br>
+  Especializado en <strong>Java (8+), Spring Boot y Spring WebFlux</strong>, con sede en Lima, Perú.
 </p>
 
 <p align="center">
-  🚀 Siempre explorando nuevas herramientas y metodologías, ya sea a través de cursos, proyectos personales o colaboraciones. <br>
-  Experiencia en bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB), despliegue cloud y automatización CI/CD.
+  🛠️ Experiencia trabajando con bases de datos relacionales (<strong>PostgreSQL, MySQL, SQL Server</strong>) y no relacionales (<strong>MongoDB</strong>).<br>
+  Además, tengo conocimientos en despliegue cloud (Azure, Docker) y automatización de procesos con herramientas CI/CD.
 </p>
 
 <p align="center">
-  🎯 En constante crecimiento profesional, aportando valor a cada proyecto y compartiendo lo aprendido. ¡Siempre buscando formas de mejorar!
+  🚀 Apasionado por la tecnología, estoy en constante aprendizaje a través de cursos, proyectos personales y colaboraciones. <br>
+  🎯 ¡Siempre buscando nuevas formas de crecer, compartir lo aprendido y aportar valor en cada proyecto!
 </p>
 
 ---
